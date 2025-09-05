@@ -1,17 +1,5 @@
 # Elevvo Internship Machine Learning Projects
 
-- [Python](https://www.python.org/)  
-- [NumPy](https://numpy.org/)  
-- [Pandas](https://pandas.pydata.org/)  
-- [Scikit-learn](https://scikit-learn.org/stable/)  
-- [SMOTE – imbalanced-learn](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html)  
-- [XGBoost](https://xgboost.readthedocs.io/en/stable/)  
-- [LightGBM](https://lightgbm.readthedocs.io/en/stable/)  
-- [TensorFlow](https://www.tensorflow.org/)  
-- [Keras](https://keras.io/)  
-- ![Statsmodels](https://www.statsmodels.org/stable/index.html)
-- ![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -21,6 +9,10 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E97A7?style=for-the-badge&logo=plotly&logoColor=white)
 ![SMOTE](https://img.shields.io/badge/SMOTE-Technique-blueviolet?style=for-the-badge)
 ![Recommendation System](https://img.shields.io/badge/Recommendation-System-green?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E00?style=for-the-badge&logo=xgboost&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-017C3C?style=for-the-badge&logo=leaflet&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=for-the-badge)
+![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
 
 
 ## Overview
