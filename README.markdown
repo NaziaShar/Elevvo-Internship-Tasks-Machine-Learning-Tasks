@@ -55,7 +55,7 @@ Below is a summary of the individual tasks included in this repository, each loc
    - **Key Results**: LightGBM achieved the lowest RMSE; time-based features were critical.
    - **Directory**: `/Task7_Sales_Forecasting`
 
-8. **Traffic Sign Classification with Pretrained CNN**
+8. **Task 8: Traffic Sign Classification with Pretrained CNN**
    - **Objective**: Classify German traffic signs (43 classes) using image data.
    - **Techniques**: Pretrained CNN (e.g., VGG16, ResNet) with data augmentation, GPU acceleration on Kaggle.
    - **Dataset**: GTSRB (~39,209 training, ~12,630 test images, Kaggle).
