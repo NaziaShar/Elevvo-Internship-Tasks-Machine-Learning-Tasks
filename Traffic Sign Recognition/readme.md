@@ -1,10 +1,9 @@
-# GTSRB Traffic Sign Recognition with DenseNet121
+# GTSRB Traffic Sign Recognition with Custom CNN & DenseNet121
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
 ![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
-![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📌 Project Overview
 This project implements a **Traffic Sign Recognition System** using the **German Traffic Sign Recognition Benchmark (GTSRB)** dataset. The model is based on a **pretrained DenseNet121** architecture, fine-tuned for multi-class image classification.
@@ -81,16 +80,16 @@ jupyter notebook gtsrb-pretrained-densenet121-model-cnn.ipynb
 ## 📊 Results
 
 - **Custom CNN (with Augmentation)**  
-  - Training Accuracy: **99%**  
-  - Validation Accuracy: **93%**  
+  - Training Accuracy: **98.73%**  
+  - Validation Accuracy: **99.83%**  
 
 - **DenseNet121 (without Augmentation)**  
-  - Training Accuracy: **100%**  
-  - Validation Accuracy: **95%**  
+  - Training Accuracy: **89.35%**  
+  - Validation Accuracy: **89.28**  
 
 - **DenseNet121 (with Augmentation)**  
-  - Training Accuracy: **99%**  
-  - Validation Accuracy: **96%**  
+  - Training Accuracy: **74.83%**  
+  - Validation Accuracy: **83.35%**  
 
 ---
 
@@ -102,6 +101,6 @@ jupyter notebook gtsrb-pretrained-densenet121-model-cnn.ipynb
 ---
 
 ## 👨‍💻 Author
-Developed by **[Your Name]**  
-📧 Contact: your_email@example.com
+Developed by **Nazia Sattar**  
+📧 Contact: naziashar394@gmail.com
 
