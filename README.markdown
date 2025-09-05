@@ -9,7 +9,7 @@
 - [LightGBM](https://lightgbm.readthedocs.io/en/stable/)  
 - [TensorFlow](https://www.tensorflow.org/)  
 - [Keras](https://keras.io/)  
-- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- ![Statsmodels](https://www.statsmodels.org/stable/index.html)
 - ![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
