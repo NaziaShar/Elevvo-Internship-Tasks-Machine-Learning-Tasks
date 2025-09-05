@@ -124,16 +124,28 @@ jupyter notebook
 
 ## Project Structure
 ```
-your-repo-name/
 ├── Task1_Student_Score_Prediction/
-│   ├── Task 1- Student Score Prediction (2).ipynb
+│   ├── notebook.ipynb
 │   ├── README.md
 ├── Task2_Customer_Segmentation/
-│   ├── Task 2 - Customer Segmentation.ipynb
+│   ├── notebook.ipynb
 │   ├── README.md
 ├── Task3_Forest_Cover_Type/
-│   ├── Task 3 - Forest Cover Type Classification.ipynb
+│   ├── notebook.ipynb
 │   ├── README.md
 ├── Task4_Loan_Approval_Prediction/
-│   ├── Task 4 - Loan Approval Prediction Description.ipynb
-│   ├── README
+│   ├── notebook.ipynb
+│   ├── README.md
+├── Task5_Movie_Recommendation/
+│   ├── notebook.ipynb
+│   ├── README.md
+├── Task6_Music_Genre_Classification/
+│   ├── notebook.ipynb
+│   ├── README.md
+├── Task7_Sales_Forecasting/
+│   ├── notebook.ipynb
+│   ├── README.md
+├── Task8_Traffic_Sign_Classification/
+│   ├── notebook.ipynb
+│   ├── README.md
+
