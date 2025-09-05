@@ -1,1 +1,0 @@
-Forest Cover Type Classification
