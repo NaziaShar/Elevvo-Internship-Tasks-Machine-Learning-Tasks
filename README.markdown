@@ -1,8 +1,17 @@
 # Elevvo Internship Machine Learning Projects
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15+-FF6F00?logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-Deep%20Learning-D00000?logo=keras&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)
-![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
+
+- [Python](https://www.python.org/)  
+- [NumPy](https://numpy.org/)  
+- [Pandas](https://pandas.pydata.org/)  
+- [Scikit-learn](https://scikit-learn.org/stable/)  
+- [SMOTE – imbalanced-learn](https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.SMOTE.html)  
+- [XGBoost](https://xgboost.readthedocs.io/en/stable/)  
+- [LightGBM](https://lightgbm.readthedocs.io/en/stable/)  
+- [TensorFlow](https://www.tensorflow.org/)  
+- [Keras](https://keras.io/)  
+- [Statsmodels](https://www.statsmodels.org/stable/index.html)
+- ![Accuracy](https://img.shields.io/badge/Accuracy-High-success)
+
 
 ## Overview
 This repository contains a collection of machine learning projects demonstrating various techniques, including regression, classification, clustering, recommendation systems, and deep learning. Each project (Task 1 through Task 7 and an additional Traffic Sign Classification project) addresses a unique problem, leveraging datasets from sources like Kaggle, UCI, or GroupLens. The projects showcase skills in data preprocessing, feature engineering, model training, evaluation, and visualization, with some utilizing GPU acceleration on Kaggle for compute-intensive tasks.
